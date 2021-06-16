@@ -53,6 +53,39 @@ img{
     padding: 20px;
     border-radius: 5%;
 }
+.heading{
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 60px;
+    z-index: 1;
+}
+
+.img1{
+    position: fixed;
+    top: 20%;
+    left: 50.5%;
+    transform: translate(-50%, -50%);
+    z-index: 0;
+
+}
+.img2{
+    position: fixed;
+    top: 20%;
+    left: 44%;
+    transform: translate(-50%, -50%);
+    z-index: 0;
+
+}
+.img3{
+    position: fixed;
+    top: 20%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    z-index: 0;
+
+}
 
 .cursor {
     position: fixed;
