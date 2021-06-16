@@ -40,15 +40,15 @@ const play = () => {
 
 setInterval(() => {
     respawn1()
-}, 4000)
+}, 3000)
 
 setInterval(() => {
     respawn2()
-}, 7000)
+}, 5000)
 
 setInterval(() => {
     respawn3()
-}, 11000)
+}, 7000)
 
 // window loading
 window.onload = () => {
