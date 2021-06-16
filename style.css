@@ -28,7 +28,7 @@ img{
     width: 100vw;
     background-color: rgb(59, 32, 32);
     z-index: 2;
-    cursor: default;
+     cursor: default;
     transition: all 0.1s ease;
 }
 
